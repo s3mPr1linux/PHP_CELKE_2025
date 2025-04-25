@@ -1,0 +1,14 @@
+{
+    "name": "analista/celke",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "celke"
+        }
+    ],
+    "require": {}
+}
